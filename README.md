@@ -1,4 +1,9 @@
 # String-Manipulation-Exercises
+
+How to run:
+main method is found in StringManipulationExercises.java 
+
+
 Create a new JAVA Strings JAVA String Project in IDE:
 
 1. Create Vowels class in JAVA then do the following:
